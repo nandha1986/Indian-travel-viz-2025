@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-   base: '/indian-travel-viz-2025/',
+   base: '/Indian-travel-viz-2025/',
   server: {
     port: 5173,
     open: true
